@@ -6,7 +6,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
-* [Inspiration](#inspiration)
+
 
 
 ## General info
@@ -22,7 +22,7 @@ Landing page. In this project I use  HTML5, CSS3 and JavaScript (ECMAScript6).
 * JavaScript (ECMAScript6)
 
 ## Setup
-Click on this link:
+Click on this link:  https://igor27g.github.io/Landing_page/
 
 
 
