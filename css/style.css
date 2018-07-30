@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body, html {
+	height: 100vh;
+	margin: 0;
+	padding: 0;
+	color: #ffffff;
+}
+
+.bgimg {
+	background-image: url(../img/bg1.jpg);
+	height: 100%;
+	background-size: cover;
+	background-position: center;
+}
+
+.middle {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+h1 {
+	font-size: 40px;
+	letter-spacing: 30px;
+	font-weight: 100;
+    margin-bottom: 10px;
+}
+
+
+#demo {
+	font-size: 30px;
+	font-weight: lighter;
+	word-spacing: 20px;
+}
+
+hr {
+	margin: auto;
+    margin-bottom: 10px;
+	width: 80%;
+	border: 1.5px solid #ffffff;
+}
