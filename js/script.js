@@ -1,6 +1,6 @@
 
 // Set the date we're counting down to 
-let countDownDate = new Date("Aug 18, 2018 23:50:00").getTime();
+let countDownDate = new Date("Aug 18, 2028 23:50:00").getTime();
 
 // Update the cound down every 1 second 
 
